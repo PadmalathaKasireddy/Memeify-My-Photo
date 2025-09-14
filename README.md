@@ -39,7 +39,7 @@ Memeify-My-Photo/
 4. The final meme is displayed and can be downloaded.  
 
 ---
-
+  
 ## 🔧 Installation & Setup  
 ```bash
 # Clone the repo
@@ -56,14 +56,14 @@ pip install -r requirements.txt
 # Run the app
 streamlit run app.py
 
----
+```
 
 ## 📌 Future Enhancements  
 - Add **AI-powered caption generation** using Transformers (GPT/HuggingFace).  
 - Support for **GIF memes**.  
 - Integration with **social media sharing**.  
 
----
+
 
 ## 👩‍💻 Author  
 **Venkata Padmalatha Kasireddy**  
